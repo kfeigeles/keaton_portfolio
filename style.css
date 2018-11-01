@@ -1,0 +1,120 @@
+html{
+    background-color:rgb(236, 233, 233);
+}
+
+body{
+}
+
+.instructionsets{
+    text-align:left;
+    padding-right:10px;
+    padding-left:10px;
+}
+
+h1{
+    text-align:center;
+    font-family:brandon grotesque;
+    font-size:50px;
+    color: violet;
+    text-decoration:underline;
+    text-decoration-color:rgb(66, 193, 247);
+    text-decoration-style:wavy;
+}
+
+h2{
+    text-align:right;
+    font-family:brandon grotesque;
+    font-size:25px;
+    color:black;
+    padding-right:70px;
+}
+
+h2.image{
+    padding-right:30px;
+}
+
+p{
+    text-align:left;
+    font-family:brandon grotesque;
+    font-size:20px;
+    vertical-align:middle;
+    padding-left:70px;
+    padding-bottom:30px;
+    border:7px dotted rgb(66, 193, 247);
+}
+
+.column{
+    float:left;
+    width:33.33%;
+    padding-left:70px;
+}
+
+img{
+    padding-left:120px;
+}
+
+.links{
+    max-width:700px;
+    padding-bottom:50px;
+    padding-left:70px;
+    display:flex;
+    flex-direction:column;
+    text-align:center;
+    vertical-align: middle;
+    line-height:30px; 
+}
+
+.info{
+    padding-bottom:20px;
+    border:7px dotted pink;
+    display:flex;
+    flex-direction:column;
+    border-left-width:400px;
+}
+
+.side-by-side{
+    display:flex;
+}
+
+.left{
+    width:55%;
+    padding-top:150px;
+}
+
+.right{
+    width:45%;
+}
+
+.five{
+    border:10px solid black;
+}
+
+.days{
+    border:10px solid orange;
+    display:flex;
+}
+
+.day-1{
+    border:10px solid black;
+    width:20%;
+}
+
+.day-2{
+    border:10px solid black;
+    width:20%;
+}
+
+.day-3{
+    border:10px solid black;
+    width:20%;
+}
+
+.day-4{
+    border:10px solid black;
+    width:20%;
+}
+
+.day-5{
+    border:10px solid black;
+    width:20%;
+}
