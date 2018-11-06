@@ -355,12 +355,12 @@ img{
 }
 
 .intro-127{
-    padding-left:30px;
+    padding-left:80px;
     padding-bottom:20px;
 }
 
 .video-127{
-    padding-left:120px;
+    padding-left:250px;
     padding-bottom:20px;
 }
 
@@ -413,7 +413,7 @@ img{
     flex-wrap:wrap;
     vertical-align:left;
     line-height:30px;
-    padding-right:120px;
+    padding-right:130px;
 }
 
 /* .conclusion-127{
