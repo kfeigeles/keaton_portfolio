@@ -62,14 +62,14 @@ img{
     font-family:brandon grotesque;
     font-size:25px;
     max-width:600px;
-    padding-top:20px;
-    padding-bottom:30px;
+    padding-top:10px;
+    padding-bottom:15px;
     /* padding-left:70px; */
     display:flex;
     flex-direction:column;
     text-align:center;
     vertical-align: middle;
-    line-height:30px; 
+    line-height:15px; 
     border:5px dotted rgb(66, 193, 247);
 }
 
@@ -78,8 +78,8 @@ img{
     font-family:brandon grotesque;
     font-size:25px;
     max-width:600px;
-    padding-top:20px;
-    padding-bottom:30px;
+    padding-top:10px;
+    padding-bottom:15px;
     /* padding-left:70px; */
     display:flex;
     flex-direction:column;
@@ -94,8 +94,8 @@ img{
     font-family:brandon grotesque;
     font-size:25px;
     max-width:600px;
-    padding-top:20px;
-    padding-bottom:30px;
+    padding-top:10px;
+    padding-bottom:15px;
     /* padding-left:70px; */
     display:flex;
     flex-direction:column;
@@ -110,8 +110,40 @@ img{
     font-family:brandon grotesque;
     font-size:25px;
     max-width:600px;
-    padding-top:20px;
-    padding-bottom:30px;
+    padding-top:10px;
+    padding-bottom:15px;
+    /* padding-left:70px; */
+    display:flex;
+    flex-direction:column;
+    text-align:center;
+    vertical-align: middle;
+    line-height:30px; 
+    border:5px dotted rgb(66, 193, 247);
+}
+
+.link-5{
+    text-align:center;
+    font-family:brandon grotesque;
+    font-size:25px;
+    max-width:600px;
+    padding-top:10px;
+    padding-bottom:15px;
+    /* padding-left:70px; */
+    display:flex;
+    flex-direction:column;
+    text-align:center;
+    vertical-align: middle;
+    line-height:30px; 
+    border:5px dotted rgb(66, 193, 247);
+}
+
+.link-6{
+    text-align:center;
+    font-family:brandon grotesque;
+    font-size:25px;
+    max-width:600px;
+    padding-top:10px;
+    padding-bottom:15px;
     /* padding-left:70px; */
     display:flex;
     flex-direction:column;
@@ -439,4 +471,86 @@ img{
     text-align:center;
     display:flex;
     padding-left:625px;
+}
+
+.the-vis{
+    text-align:left;
+    font-family:brandon grotesque;
+    font-size:20px;
+    vertical-align:middle;
+    padding-left:70px;
+    padding-bottom:30px;
+}
+
+.introduction{
+    display:flex;
+    padding-bottom:20px;
+}
+
+.research-ideation{
+    display:flex;
+    padding-bottom:20px;
+}
+
+.systems-map{
+    display:flex;
+    padding-bottom:20px;
+}
+
+.product-pitch{
+    display:flex;
+    padding-bottom:20px;
+}
+
+.disaster-exhibit{
+    display:flex;
+    padding-bottom:20px;
+}
+
+.conclusion{
+    display:flex;
+    padding-bottom:30px;
+    padding-left:20px;
+}
+
+/* .systems-map-img{
+    display:flex;
+    height:25%;
+    flex-direction:row;
+    flex-wrap:wrap;
+    vertical-align:left;
+    line-height:30px;
+    padding-right:200px;
+} */
+
+.avo-intro{
+    display:flex;
+    padding-bottom:30px;
+    padding-left:20px;
+    text-align:center;
+    font-family:brandon grotesque;
+    font-size:20px;
+}
+
+/* .avo-images{
+    display:flex;
+    padding-bottom:30px;
+} */
+
+.avo-conclusion{
+    display:flex;
+    padding-bottom:30px;
+    padding-left:20px;
+    text-align:center;
+    font-family:brandon grotesque;
+    font-size:20px;
+}
+
+.avo-link{
+    display:flex;
+    padding-bottom:30px;
+    padding-left:630px;
+    text-align:center;
+    font-family:brandon grotesque;
+    font-size:20px;
 }

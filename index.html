@@ -20,6 +20,8 @@
                 <div class="link-2"><a href="IiF.html">How Do You Wear That?</a></div><br>
                 <div class="link-3"><a href="instructionsets.html">"If I Were In Power..."</a></div><br>
                 <div class="link-4"><a href="127hours.html">127 Hours</a></div>
+                <div class="link-5"><a href="datadriven.html">Avocad-OH!</a></div>
+                <div class="link-6"><a href="emergingfutures.html">The VIS</a></div>
             </div>
         </div>
         <div class="right">
